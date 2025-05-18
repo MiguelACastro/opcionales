@@ -3,6 +3,7 @@ package opcionales;
 public class Main {
 	public static void main(String[] args) {
 //		new MickeyMouse();
-		new Estrellas();
+//		new Estrellas();
+		new FigurasRadiales();
 	}
 }
