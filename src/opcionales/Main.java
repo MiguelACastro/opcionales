@@ -5,6 +5,7 @@ public class Main {
 //		new MickeyMouse();
 //		new Estrellas();
 //		new FigurasRadiales();
-		new Reloj();
+//		new Reloj();
+		new Flores();
 	}
 }
